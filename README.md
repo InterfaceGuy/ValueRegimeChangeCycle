@@ -1,5 +1,7 @@
 # Value Regime Change Cycle
 
+![](ValueRegimeChangeCycle.gif)
+
 The Value Regime Change cycle, occurring approximately every 500 years, represents fundamental shifts in how societies conceptualize and organize value. This cycle encompasses changes in economic, social, and cultural systems that define what is considered valuable and how it is exchanged. Key aspects include:
 
 1. Transformation of economic systems
